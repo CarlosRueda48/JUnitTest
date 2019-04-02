@@ -1,3 +1,3 @@
 # DevOps and Testing
 
-This is a test change for the repo's README
+This is a change to the repo's README
